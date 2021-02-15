@@ -1,6 +1,6 @@
 // כל מה שסודי כמו סיסמא , יוזר יהיה כאן
 exports.config = {
-  jwtSecret:"",
-  mongoPass:"",
-  mongoUser:""
+  jwtSecret:"monkeysSecret",
+  mongoPass:"MONKEYS12",
+  mongoUser:"koko3"
 }
